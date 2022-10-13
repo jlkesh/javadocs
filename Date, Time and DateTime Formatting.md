@@ -17,6 +17,20 @@
 |%x	   | integer ( incl. byte, short, int, long, bigint )|	Hex string.|
 
 
+
+## Flags for printf
+
+|Flag|description|
+|:-------|:-------|
+|'-'	| The result will be left-justified.|
+|'#'	| The result should use a conversion-dependent alternate form|
+|'+'	| The result will always include a sign|
+|'  '   | The result will include a leading space for positive values|
+|'0'	| The result will be zero-padded|
+|','	| The result will include locale-specific grouping separators|
+|'('	| The result will enclose negative numbers in parentheses|
+
+
 ## The following table contains the suffix characters for Time Formatting
 
 
