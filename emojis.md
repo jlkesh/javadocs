@@ -5,6 +5,9 @@ needed emojis unicode
 * 📝 - todo
 * ✅ - check mark
 * ❌ close mark
+* 🟥 - red
+* 🟧 - medium
+* 🟩 - low
 ```
     public static final String RED = "\033[1;91m";
     public static final String GREEN = "\033[1;92m";
