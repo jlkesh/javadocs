@@ -1,2 +1,2 @@
 # Implicit Jakarta Server Page Objects
-![Image](img/Implicit Jakarta Server Page Objects.png)
+![Image](Implicit Jakarta Server Page Objects.png)
