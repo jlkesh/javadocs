@@ -29,6 +29,9 @@ public class Bank {
 
 }
 
+```
+
+```java
 public class RaceConditionProblem {
     public static final int N_ACCOUNTS = 100;
     public static final double INITIAL_BALANCE = 1000;
@@ -59,7 +62,6 @@ public class RaceConditionProblem {
         }
     }
 }
-
 
 ```
 
